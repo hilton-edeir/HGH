@@ -1,11 +1,21 @@
-package com.models;
+package com.modelo;
 
 public class Conta {
     private String id;
     private String email;
     private String palavra_passe;
     private String data_criacao;
+    private int tipo_conta;
     private boolean status;
+
+    public Conta(String id, String email, String palavra_passe, String data_criacao, int tipo_conta, boolean status) {
+        this.id = id;
+        this.email = email;
+        this.palavra_passe = palavra_passe;
+        this.data_criacao = data_criacao;
+        this.tipo_conta = tipo_conta;
+        this.status = status;
+    }
 
     public String getId() {
         return id;
@@ -37,6 +47,14 @@ public class Conta {
 
     public void setData_criacao(String data_criacao) {
         this.data_criacao = data_criacao;
+    }
+
+    public int getTipo_conta(){
+        return this.tipo_conta;
+    }
+
+    public void setTipo_conta(int tipo_conta){
+        this.tipo_conta = tipo_conta;
     }
 
     public boolean isStatus() {

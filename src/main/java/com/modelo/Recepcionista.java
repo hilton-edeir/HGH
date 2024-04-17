@@ -1,4 +1,4 @@
-package com.models;
+package com.modelo;
 
 public class Recepcionista {
 }

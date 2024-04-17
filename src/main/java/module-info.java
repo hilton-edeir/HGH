@@ -10,6 +10,6 @@ module com.hgh.hgh {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens com.controller to javafx.fxml;
-    exports com.controller;
+    opens com.controlador to javafx.fxml;
+    exports com.controlador;
 }
