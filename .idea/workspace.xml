@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Ficha_Paciente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Enfermeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Enfermeiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Exame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Receita_Medica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Receita_Medica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Recepcionista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Tecnico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Tecnico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Tipo_Diagnostico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Tipo_Diagnostico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/models/Tratamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Tratamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controller/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
