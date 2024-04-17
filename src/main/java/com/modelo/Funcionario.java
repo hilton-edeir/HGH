@@ -10,6 +10,8 @@ public class Funcionario {
     private String data_nascimento;
     private Conta conta;
 
+    public Funcionario() {}
+
     public Funcionario(String id, int NIF, int NISS, String nome, String apelido, String data_nascimento, Conta conta) {
         this.id = id;
         this.NIF = NIF;

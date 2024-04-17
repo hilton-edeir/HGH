@@ -9,9 +9,10 @@ public class Consulta {
     private Receita_Medica receita_medica;
     private Exame exame;
 
-    public Consulta(int id, String data, Paciente paciente, Tratamento tratamento, Receita_Medica receita_medica, Exame exame) {
+    public Consulta(int id, String data, String descricao, Paciente paciente, Tratamento tratamento, Receita_Medica receita_medica, Exame exame) {
         this.id = id;
         this.data = data;
+        this.descricao = descricao;
         this.paciente = paciente;
         this.tratamento = tratamento;
         this.receita_medica = receita_medica;
@@ -26,12 +27,20 @@ public class Consulta {
         this.id = id;
     }
 
-    public String getData_consulta() {
+    public String getData() {
         return data;
     }
 
-    public void setData_consulta(String data) {
+    public void setData(String data) {
         this.data = data;
+    }
+
+    public String getDescricao() {
+        return this.descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
     }
 
     public Paciente getPaciente() {

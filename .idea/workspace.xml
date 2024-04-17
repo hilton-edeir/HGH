@@ -7,7 +7,9 @@
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
