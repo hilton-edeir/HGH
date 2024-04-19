@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hgh</groupId>
-    <artifactId>HGH</artifactId>
+    <artifactId>HGO</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>HGH</name>
 
@@ -117,7 +117,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.modelo.hgh/com.controlador.HGH</mainClass>
+                            <mainClass>com.modelo.hgh/com.controlador.HGO</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

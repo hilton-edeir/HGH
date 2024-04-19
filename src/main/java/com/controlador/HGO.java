@@ -7,12 +7,12 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HGH extends Application {
+public class HGO extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HGH.class.getResource("login.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(HGO.class.getResource("login.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
-        stage.setTitle("Hospital Garcia e Horta");
+        stage.setTitle("Hospital Garcia de Orta");
         stage.setScene(scene);
         stage.show();
     }
