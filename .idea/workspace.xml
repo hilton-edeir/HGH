@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/Login.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HGH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/Login_Controlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -44,12 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HGH.executor": "Run",
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
