@@ -1,4 +1,4 @@
-package com.modelo;
+package com.modelos;
 
 public class Conta {
     private String id;

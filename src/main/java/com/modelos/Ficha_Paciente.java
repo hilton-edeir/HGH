@@ -1,4 +1,4 @@
-package com.modelo;
+package com.modelos;
 
 public class Ficha_Paciente {
     private String id;

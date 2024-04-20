@@ -5,12 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/HGO_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/user_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/close_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HGH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/Login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/Login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/Login_Controlador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Enfermeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Enfermeiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Exame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Ficha_Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Ficha_Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Medico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Receita_Medica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Receita_Medica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Recepcionista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tecnico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tecnico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tipo_Diagnostico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tipo_Diagnostico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tratamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tratamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/Login.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +60,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HGH.executor": "Run",
-    "Application.HGO.executor": "Run",
-    "Application.HelloApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hilto/IdeaProjects/HGH/src/main/resources/img",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.JavaFX"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HGH.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HGO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hilto/IdeaProjects/HGH/src/main/resources/img&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hilto\IdeaProjects\HGH\src\main\resources\img" />
@@ -68,21 +84,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hilto\IdeaProjects\HGH\src\main\resources\img" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="HGO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="HGO" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
