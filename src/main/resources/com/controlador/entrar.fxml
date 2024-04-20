@@ -21,44 +21,47 @@
             </Label>
          </children></AnchorPane>
    </left>
-   <center>
-      <AnchorPane prefHeight="400.0" prefWidth="541.0" BorderPane.alignment="CENTER">
+   <right>
+      <AnchorPane prefHeight="400.0" prefWidth="400.0" BorderPane.alignment="CENTER">
          <children>
-            <TextField layoutX="85.0" layoutY="215.0" prefHeight="26.0" prefWidth="230.0" promptText="NIF" style="-fx-background-color: transparent; -fx-border-color: #133A71; -fx-border-width: 0px 0px 1px 0px;">
+            <TextField fx:id="cmp_NIF" focusTraversable="false" layoutX="90.0" layoutY="213.0" prefHeight="26.0" prefWidth="230.0" promptText="NIF" style="-fx-background-color: transparent; -fx-border-color: #133A71; -fx-border-width: 0px 0px 1px 0px;">
                <font>
-                  <Font name="Arial" size="12.0" />
+                  <Font name="Arial" size="13.0" />
                </font></TextField>
-            <PasswordField layoutX="85.0" layoutY="257.0" prefHeight="26.0" prefWidth="230.0" promptText="Palavra-passe" style="-fx-background-color: transparent; -fx-border-color: #133A71; -fx-border-width: 0px 0px 1px 0px;">
+            <PasswordField fx:id="cmp_PPasse" focusTraversable="false" layoutX="90.0" layoutY="260.0" prefHeight="26.0" prefWidth="230.0" promptText="Palavra-passe" style="-fx-background-color: transparent; -fx-border-color: #133A71; -fx-border-width: 0px 0px 1px 0px;">
                <font>
-                  <Font name="Arial" size="12.0" />
+                  <Font name="Arial" size="13.0" />
                </font></PasswordField>
-            <Button alignment="CENTER" layoutX="85.0" layoutY="311.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="230.0" style="-fx-background-color: #133A71;" text="Entrar" textAlignment="CENTER" textFill="WHITE">
+            <Button fx:id="btn_Entrar" alignment="CENTER" layoutX="90.0" layoutY="313.0" mnemonicParsing="false" onAction="#btn_entrar" prefHeight="30.0" prefWidth="230.0" style="-fx-background-color: #133A71;" text="Entrar" textAlignment="CENTER" textFill="WHITE">
                <font>
-                  <Font name="Arial Bold" size="12.0" />
+                  <Font name="Arial Bold" size="14.0" />
                </font>
                <cursor>
                   <Cursor fx:constant="HAND" />
                </cursor></Button>
-            <ImageView fitHeight="50.0" fitWidth="59.0" layoutX="175.0" layoutY="63.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="50.0" fitWidth="59.0" layoutX="178.0" layoutY="73.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../img/user_logo.png" />
+                  <Image url="@../../img/login_logo.png" />
                </image>
             </ImageView>
-            <Label layoutX="91.0" layoutY="126.0" text="Para continuar, entre com a sua conta" textAlignment="CENTER" textFill="#133a71">
+            <Label layoutX="82.0" layoutY="123.0" text="Para continuar, entre com a sua conta" textAlignment="CENTER" textFill="#133a71">
                <font>
-                  <Font name="Arial Bold" size="12.0" />
+                  <Font name="Arial Bold" size="13.0" />
                </font>
             </Label>
-            <Label layoutX="130.0" layoutY="362.0" text="Esqueci a palavra-passe" textAlignment="CENTER" textFill="#133a71" underline="true">
+            <Label fx:id="lbl_Esqueci_PPasse" layoutX="129.0" layoutY="362.0" text="Esqueci a palavra-passe" textAlignment="CENTER" textFill="#133a71" underline="true">
                <font>
-                  <Font name="Arial Bold" size="12.0" />
+                  <Font name="Arial Bold" size="13.0" />
                </font>
                <cursor>
                   <Cursor fx:constant="HAND" />
                </cursor>
             </Label>
-            <Label layoutX="85.0" layoutY="167.0" prefHeight="18.0" prefWidth="30.0" textFill="#d15151" />
-            <ImageView fx:id="fechar" fitHeight="16.0" fitWidth="16.0" layoutX="370.0" layoutY="14.0" onMouseClicked="#btn_fechar" pickOnBounds="true" preserveRatio="true">
+            <Label fx:id="lbl_Erro" layoutX="85.0" layoutY="178.0" prefHeight="18.0" prefWidth="230.0" textFill="#d15151">
+               <font>
+                  <Font size="13.0" />
+               </font></Label>
+            <ImageView fx:id="img_Fechar" fitHeight="19.0" fitWidth="15.0" layoutX="369.0" layoutY="14.0" onMouseClicked="#btn_fechar" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@../../img/close_logo.png" />
                </image>
@@ -66,6 +69,14 @@
                   <Cursor fx:constant="HAND" />
                </cursor>
             </ImageView>
+            <ImageView fx:id="img_Minimizar" fitHeight="16.0" fitWidth="16.0" layoutX="338.0" layoutY="14.0" onMouseClicked="#btn_minimizar" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../img/minimize-logo.png" />
+               </image>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </ImageView>
          </children></AnchorPane>
-   </center>
+   </right>
 </BorderPane>

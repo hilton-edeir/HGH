@@ -5,28 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/close_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/controlador/MenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/menu_principal.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/login_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/minimize-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/Login_Controlador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Enfermeiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Enfermeiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Exame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Exame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Ficha_Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Ficha_Paciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Medico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Medico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Paciente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Receita_Medica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Receita_Medica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Recepcionista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Recepcionista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tecnico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tecnico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tipo_Diagnostico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tipo_Diagnostico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/modelo/Tratamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/modelos/Tratamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/Login.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/img/user_logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -62,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Entrar.executor&quot;: &quot;Run&quot;,
     &quot;Application.HGH.executor&quot;: &quot;Run&quot;,
     &quot;Application.HGO.executor&quot;: &quot;Run&quot;,
     &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
