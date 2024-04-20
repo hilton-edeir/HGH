@@ -12,7 +12,7 @@
          <children>
             <ImageView fitHeight="70.0" fitWidth="62.0" layoutX="169.0" layoutY="188.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="250.0" AnchorPane.leftAnchor="169.0" AnchorPane.rightAnchor="169.0" AnchorPane.topAnchor="188.0">
                <image>
-                  <Image url="@../../img/HGO_logo.png" />
+                  <Image url="@../../img/HGO_logo_white.png" />
                </image></ImageView>
             <Label layoutX="100.0" layoutY="263.0" text="Hospital Garcia de Orta" textFill="WHITE">
                <font>

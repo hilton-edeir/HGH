@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e6a3cc3-830f-40e8-8148-b5ef7bcabb1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/controlador/MenuPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/menu_principal.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/login_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/minimize-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/HGO_logo_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/appointment_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/chat_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/dashboard_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/diagnostic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/doctor_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/search_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/user_nurse_male.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/Entrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/controlador/HGO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/entrar.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/img/user_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/controlador/menu_principal.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/controlador/menu_principal.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/img/HGO_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/HGO_logo_white.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
